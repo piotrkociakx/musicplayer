@@ -1,0 +1,4 @@
+title: Kociak music player style
+
+//
+wszystko mozna zmienic w folderach piosenek
